@@ -1,0 +1,8 @@
+git init
+git add . 
+git commit -m "adding files to the master"
+git checkout -b branch1
+git touch file1.txt
+git add .
+git commit -m "adding files to the branch"
+
